@@ -1,0 +1,11 @@
+/*Hoja de estilo personalizada*/
+
+body{
+    background-color: #7C3238;
+    color: azure;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+main{
+    text-align: center;
+}
